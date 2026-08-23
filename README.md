@@ -1,2 +1,2 @@
 # hdlbits-solutions
-my solutions :)
+my solutions to the problem set for learning verilog
